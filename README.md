@@ -4,4 +4,4 @@ In this repo, I created a single page portfolio website using HTML5, CSS & Javas
 About Me
 Skills
 Projects
-Recommendations
+Recommendations.
